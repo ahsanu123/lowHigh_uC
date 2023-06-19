@@ -1,2 +1,8 @@
 [ProjectGroup]
 Version=1.0
+[Project1]
+ProjectPath=phaseAngleSSR\phaseAngleSSR.PrjPcb
+[Project2]
+ProjectPath=library\library_V1.LibPkg
+[Project3]
+ProjectPath=..\..\..\Altium\library\altium-library\intLib\Imported special.Library.PrjPcb\special.Library.PrjPcb
