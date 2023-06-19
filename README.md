@@ -1,4 +1,4 @@
-# Low High AVR based
+# Simple AC Voltage Controller - AVR based
 
 personal project i made for learning PCB design, power electronic and control system.
 
