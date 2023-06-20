@@ -24,17 +24,19 @@ learn about recomended _hardware design consideration AVR by ATMEL_.
 ![reset with Switch](fig3_resetWithSwitch.png)
 
 **Programmer and Debugger**
-AVR microcontroller can programmed with one or more method based on device. here some little summary.
+AVR microcontroller can programmed with one or more method based on device. here some little summary.  
+
     1. ISP or In-System Programming over SPI(Serial Peripheral Interface), use standard SPI MISO, MOSI, SCK, and Reset. there was 2 diference connector of SPI, 6 and 10 pin connector, here is connector image.
-[ISP connector](fig4_ISPConncetor.png)
-    2. few device can be programmed with JTAG interface. following figure show standard JTAG connector. 
-[JTAG Connector](fig5_JTAGConnector.png)
+[ISP connector](fig4_ISPConnector.png)
+
+    2. few device can be programmed with JTAG interface. following figure show standard JTAG connector.  
+[JTAG Connector](fig5_JTAGConnector.png) 
+
     3. PDI interface
     4. TPI interface
     5. UPDI interface
 
 **CRYSTAL AND CERAMIC RESONATOR**
-
 
 
 
